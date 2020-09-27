@@ -16,7 +16,7 @@ author: APDD Project
 
 navbar-links:
   About the Project: "aboutme"
-  The Team:
+  The Team: "theteam"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
