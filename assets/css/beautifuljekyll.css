@@ -101,12 +101,7 @@ img::-moz-selection {
 img {
   max-width: 100%;
 }
-img[alt=Dina] {
-   width:150px;
-   height:100px;
-  style="float:right; 
-  padding:16px";
-}
+
 .linked-section {
   padding-top: 3.75rem;
   margin-top: -1.5625rem;
