@@ -1,0 +1,18 @@
+---
+layout: post
+title: Development of portal for market linkage between poultry farmers, potential buyers and poultry mapping business services in Tanzania.
+subtitle: Evelyn Mshana's Master's Research
+cover-img: /assets/img/poultryontheroad.jpg
+thumbnail-img: /assets/img/cagedchickens.png
+comments: true
+---
+Online application for linking poultry farmers and agro-vet services. Poultry farming is the fastest mounting livestock sectors in the world, the global world poultry predicts by 2050 there will be a great demand of approximately 121% of poultry meat and 65% of eggs. 
+However, poultry farming is facing some challenges which are uneven distribution of the agro-vet services, lack of location information of the agro-vet services which will ensure high quality improved feeds and inadequate delivery of extension services to the poultry farmers.
+The poultry farmer’s as a result lacks accurate and reliable information and services which help them in improving their poultry farming productivity. 
+
+Simple random sampling was piloted in selecting the participants of the study. Where the study involved poultry farmers, agro-vet owners and extension officers. 
+Questionnaires were used to gather data in the field and the data collected was confirmed. 
+The findings obtained were then analyzed by Python Pandas as an open source tool and later presented as figures and tables. 
+This research study therefore, proposes the development of mobile application using Model View Controller Architecture to locate the agro-vet services which are near the poultry farmer’s locality, through which the poultry farmer will be able to access all required extension and agro-vet services & products needed to improve productivity easily.
+Furthermore, it will also help the government as well as the decision makers to invest in poultry farming in areas where services are few and yet demand is high.
+
