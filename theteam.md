@@ -3,7 +3,7 @@ layout: page
 title: The Team
 subtitle: The following are team members of the project.
 ---
-![Dina](/assets/img/Dina.jpg "Dr. Dina Machuve")
+![Dina](/assets/img/Dina.jpg)
 >Dina Machuve is a lecturer and researcher at the Nelson Mandela African Institution of Science and Technology (NM-AIST) in Arusha, Tanzania. Her research focuses on developing data-driven solutions in Agriculture. For her PhD dissertation she investigated the information logistics of small and medium size food processors. Currently, she is looking at developing a poultry diseases diagnostics tool using deep learning for small and medium scale poultry farmers in Tanzania. She is an Early Career Fellow of the Organization for Women in Science for the Developing World (OWSD). She serves in the organizing committee of Data Science Africa (DSA), an organization that runs an annual data science and machine learning summer school and workshop in Africa. She is also a member of a research group on Mechanism Design for Social Good (MD4SG). She completed her PhD in Information and Communication Science and Engineering from NM-AIST in 2016. She also has an MS in Electrical Engineering and BSc in Electrical Engineering.
 
 ![Loyani](/assets/img/loyani.jpg "Mr. Loyani Loyani")
