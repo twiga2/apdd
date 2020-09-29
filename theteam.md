@@ -1,5 +1,6 @@
 ---
 layout: page
+full-width: true
 title: The Team
 subtitle: The following are team members of the project.
 ---
