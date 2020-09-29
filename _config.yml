@@ -15,12 +15,12 @@ author: APDD Project
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About the Project: "aboutme"
+  About the Project: "aboutproject"
   The Team: "theteam"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Contact Us: ""
 
 # --- Logo --- #
 
