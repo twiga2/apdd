@@ -42,7 +42,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dmachuve@gmail.com"
-  facebook: deanattali
+  #facebook: deanattali
+  linkedin: Dina Machuve
+  google-scholar: Dina Machuve
   telephone: +255789537648
   github: twiga2
   twitter: DMachuve
