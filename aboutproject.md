@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: About the Project
 subtitle: What is it and why is it important?
 cover-img: /assets/img/pexelspoultryhouse.jpg
