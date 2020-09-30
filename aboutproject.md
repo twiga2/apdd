@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: About the Project
 subtitle: Automated Poultry Diseases Diagnostics Project
 cover-img: /assets/img/pexelspoultryhouse.jpg
