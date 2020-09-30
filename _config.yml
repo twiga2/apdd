@@ -16,10 +16,10 @@ author: APDD Project
 
 navbar-links:
   About the Project: "aboutproject"
-  The Team: "theteam"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Team: "theteam"
+  Blog:
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
   Contact Us: ""
 
 # --- Logo --- #
