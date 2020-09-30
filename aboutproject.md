@@ -2,7 +2,7 @@
 layout: home
 title: About the Project
 subtitle: Automated Poultry Diseases Diagnostics Project
-cover-img: ["/assets/img/apddlaunch.jpg", "/assets/img/hopefield.jpg", /assets/img/pexelspoultryhouse.jpg, "/assets/img/apddfield1.jpg"]
+cover-img: /assets/img/pexelspoultryhouse.jpg
 ---
 
 ### What is Lorem Ipsum?
