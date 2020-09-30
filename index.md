@@ -10,6 +10,6 @@ The Automated Poultry Diseases Diagnostics (APDD) project seeks to develop a pou
 
 The APDD Project is hosted at the School of Computational and Communication Science and Engineering (CoCSE) at the Nelson Mandela African Institution of Science and Technology (NM-AIST). 
 The deliverables of the project are:
- -A mobile application for use by farmers and livestock officers for early detection of Coccidiosis, Salmonella and Newcastle. 
- -A machine learning dataset for poultry diseases diagnostics
+-A mobile application for use by farmers and livestock officers for early detection of Coccidiosis, Salmonella and Newcastle. 
+-A machine learning dataset for poultry diseases diagnostics
 
