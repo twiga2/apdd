@@ -4,39 +4,69 @@ title: The Team
 subtitle: The following are team members of the project.
 ---
 <div class="row"> 
-        <div class="column">  
-            <img src="/assets/img/Dina.jpg" alt="Dina">  
+      <div class="column">  
+            <img src="/assets/img/Dina.jpg" alt="Dina" title="Dr. Dina Machuve">  
         </div> 
       <div class="column">
         <ul type = "circle">
-         <li>Beetroot</li>
-         <li>Ginger</li>
-         <li>Potato</li>
-         <li>Radish</li>
+         <li>Name: Dr. Dina Machuve</li>
+         <li>Position: Principal Investigator(PI)</li>
       </ul> 
       </div>
-    </div> 
-<img src="/assets/img/Dina.jpg" alt="Dina">
->Dina Machuve is a lecturer and researcher at the Nelson Mandela African Institution of Science and Technology (NM-AIST) in Arusha, Tanzania. Her research focuses on developing data-driven solutions in Agriculture. For her PhD dissertation she investigated the information logistics of small and medium size food processors. Currently, she is looking at developing a poultry diseases diagnostics tool using deep learning for small and medium scale poultry farmers in Tanzania. She is an Early Career Fellow of the Organization for Women in Science for the Developing World (OWSD). She serves in the organizing committee of Data Science Africa (DSA), an organization that runs an annual data science and machine learning summer school and workshop in Africa. She is also a member of a research group on Mechanism Design for Social Good (MD4SG). She completed her PhD in Information and Communication Science and Engineering from NM-AIST in 2016. She also has an MS in Electrical Engineering and BSc in Electrical Engineering.
+  </div> 
+  
+ <div class="row"> 
+      <div class="column">  
+          <img src="/assets/img/loyani.jpg" alt="Loyani" title="Mr. Loyani Loyani" >
+      </div> 
+      <div class="column">
+        <ul type = "circle">
+         <li>Name: Mr. Loyani Loyani</li>
+         <li>Position: Research Assistant</li>
+         <li>Research title: </li>
+         <li>Degree Program: Master’s in Information and Communication Science and Engineering (ICSE)</li>
+      </ul> 
+      </div>
+  </div> 
 
-<img src="/assets/img/loyani.jpg" alt="Loyani" onmouseover="Loyani" align="left">
->Loyani Loyani is a Master’s student in Information and Communication Science and Engineering (ICSE) at the Nelson Mandela African Institution of Science and Technology (NM-AIST) in Arusha, Tanzania. Being a student and an emerging data scientist, He is passionate and strongly motivated about seeing change in struggling communities and improving people’s lives by providing solutions to the challenges they face using Data science/AI. He is highly interested in using Machine learning and Computer vision techniques to solve agricultural related problems which is the main economic sector in Tanzania. Currently, He is conducting research that aims to develop  a computer vision tool for early detection and quantification Tuta absoluta, a pest which is a major threat to tomato productivity.
+<div class="row"> 
+      <div class="column">  
+          <img src="/assets/img/Evelyn.jpg" alt="Evelyn" title="Ms. Evelyn Mshana" >
+      </div> 
+      <div class="column">
+        <ul type = "circle">
+         <li>Name: Ms. Evelyn Mshana</li>
+         <li>Position: Research Assistant</li>
+         <li>Research title: </li>
+         <li>Degree Program: Master’s in Information and Communication Science and Engineering (ICSE)</li>
+      </ul> 
+      </div>
+  </div> 
 
-![Evelyn](/assets/img/Evelyn.jpg "Ms. Evelyn Mshana")
->Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+<div class="row"> 
+      <div class="column">  
+          <img src="/assets/img/Beston.jpg" alt="Beston" title="Mr. Beston Lufyagila" >
+      </div> 
+      <div class="column">
+        <ul type = "circle">
+         <li>Name: Mr. Beston Lufyagila</li>
+         <li>Position: Research Assistant</li>
+         <li>Research title: </li>
+         <li>Degree Program: Master’s in Information and Communication Science and Engineering (ICSE)</li>
+      </ul> 
+      </div>
+ </div> 
 
-![Beston](/assets/img/Beston.jpg "Mr. Beston Lufyagila")
->Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-![Martha](/assets/img/martha.jpg "Ms. Martha Shapa")
->Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
+<div class="row"> 
+      <div class="column">  
+          <img src="/assets/img/martha.jpg" alt="Martha" title="Ms. Martha Shapa" >
+      </div> 
+      <div class="column">
+        <ul type = "circle">
+         <li>Name: Ms. Martha Shapa</li>
+         <li>Position: Research Assistant</li>
+         <li>Research title: </li>
+         <li>Degree Program: Master’s in Information and Communication Science and Engineering (ICSE)</li>
+      </ul> 
+      </div>
+ </div> 
